@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" data-icon="code"
+     viewBox="0 0 512 640" x="0px" y="0px">
+    <g
+            id="layer1"
+            transform="translate(0,-652.36216)">
+        <path
+                style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                d="M 241.52344 64.714844 L 134.42773 325.40625 L 158.47656 335.28516 L 265.57227 74.59375 L 241.52344 64.714844 z M 105.71484 94.285156 L 18.384766 181.61523 L 0 200 L 18.384766 218.38477 L 105.71484 305.71484 L 124.09961 287.33008 L 36.769531 200 L 124.09961 112.66992 L 105.71484 94.285156 z M 294.28516 94.285156 L 275.90039 112.66992 L 363.23047 200 L 275.90039 287.33008 L 294.28516 305.71484 L 381.61523 218.38477 L 400 200 L 381.61523 181.61523 L 294.28516 94.285156 z "
+                transform="translate(0,652.36216)"
+                id="rect7309" />
+    </g>
+</svg>
